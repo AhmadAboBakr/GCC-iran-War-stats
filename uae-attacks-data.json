@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "title": "Iranian Strikes on the UAE",
+    "source": "UAE Ministry of Defence — Official Daily Briefings",
+    "startDate": "2026-02-28",
+    "lastUpdated": "2026-04-04",
+    "day": 36,
+    "note": "UAE publishes the most granular daily cumulative data of all GCC states"
+  },
+  "cumulative": [
+    { "date": "Feb 28", "day": 1,  "ballistic": 145, "cruise": 2,  "drones": 230  },
+    { "date": "Mar 1",  "day": 2,  "ballistic": 165, "cruise": 2,  "drones": 541  },
+    { "date": "Mar 3",  "day": 4,  "ballistic": 174, "cruise": 8,  "drones": 689  },
+    { "date": "Mar 4",  "day": 5,  "ballistic": 189, "cruise": 8,  "drones": 941  },
+    { "date": "Mar 5",  "day": 6,  "ballistic": 196, "cruise": 8,  "drones": 1072 },
+    { "date": "Mar 6",  "day": 7,  "ballistic": 205, "cruise": 8,  "drones": 1184 },
+    { "date": "Mar 8",  "day": 9,  "ballistic": 222, "cruise": 8,  "drones": 1422 },
+    { "date": "Mar 11", "day": 12, "ballistic": 268, "cruise": 15, "drones": 1514 },
+    { "date": "Mar 13", "day": 14, "ballistic": 285, "cruise": 15, "drones": 1567 },
+    { "date": "Mar 14", "day": 15, "ballistic": 294, "cruise": 15, "drones": 1600 },
+    { "date": "Mar 15", "day": 16, "ballistic": 304, "cruise": 15, "drones": 1627 },
+    { "date": "Mar 23", "day": 24, "ballistic": 352, "cruise": 15, "drones": 1789 },
+    { "date": "Mar 24", "day": 25, "ballistic": 357, "cruise": 15, "drones": 1806 },
+    { "date": "Mar 25", "day": 26, "ballistic": 357, "cruise": 15, "drones": 1815 },
+    { "date": "Mar 26", "day": 27, "ballistic": 372, "cruise": 15, "drones": 1826 },
+    { "date": "Mar 27", "day": 28, "ballistic": 378, "cruise": 15, "drones": 1835 },
+    { "date": "Mar 28", "day": 29, "ballistic": 398, "cruise": 15, "drones": 1872 },
+    { "date": "Mar 29", "day": 30, "ballistic": 414, "cruise": 15, "drones": 1914 },
+    { "date": "Mar 30", "day": 31, "ballistic": 425, "cruise": 15, "drones": 1941 },
+    { "date": "Mar 31", "day": 32, "ballistic": 433, "cruise": 19, "drones": 1977 },
+    { "date": "Apr 1",  "day": 33, "ballistic": 438, "cruise": 19, "drones": 2012 },
+    { "date": "Apr 2",  "day": 34, "ballistic": 457, "cruise": 19, "drones": 2038 },
+    { "date": "Apr 3",  "day": 35, "ballistic": 475, "cruise": 23, "drones": 2085 },
+    { "date": "Apr 4",  "day": 36, "ballistic": 498, "cruise": 23, "drones": 2141 }
+  ]
+}

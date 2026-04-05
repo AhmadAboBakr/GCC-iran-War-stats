@@ -1,0 +1,23 @@
+{
+  "meta": {
+    "title": "Iranian Strikes on Qatar",
+    "source": "Qatar Ministry of Defence — Official Briefings",
+    "flag": "🇶🇦",
+    "startDate": "2026-02-28",
+    "lastUpdated": "2026-04-04",
+    "day": 36,
+    "note": "After Trump's Mar 18 warning Qatar was largely spared further attack. Qatar shot down 2 Iranian Su-24s on Mar 2."
+  },
+  "cumulative": [
+    { "date": "Feb 28", "day": 1,  "ballistic": 66,  "cruise": 3,  "drones": 12 },
+    { "date": "Mar 1",  "day": 2,  "ballistic": 98,  "cruise": 3,  "drones": 24 },
+    { "date": "Mar 3",  "day": 4,  "ballistic": 109, "cruise": 3,  "drones": 33 },
+    { "date": "Mar 9",  "day": 10, "ballistic": 143, "cruise": 3,  "drones": 53 },
+    { "date": "Mar 10", "day": 11, "ballistic": 151, "cruise": 3,  "drones": 69 },
+    { "date": "Mar 16", "day": 17, "ballistic": 175, "cruise": 3,  "drones": 80 },
+    { "date": "Mar 18", "day": 19, "ballistic": 203, "cruise": 3,  "drones": 87 },
+    { "date": "Apr 1",  "day": 33, "ballistic": 203, "cruise": 6,  "drones": 87 },
+    { "date": "Apr 3",  "day": 35, "ballistic": 203, "cruise": 6,  "drones": 87 },
+    { "date": "Apr 4",  "day": 36, "ballistic": 203, "cruise": 6,  "drones": 87 }
+  ]
+}

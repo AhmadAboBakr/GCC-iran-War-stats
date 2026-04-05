@@ -1,0 +1,23 @@
+{
+  "meta": {
+    "title": "Iranian Strikes on Saudi Arabia",
+    "source": "Saudi Ministry of Defence — Official Statements",
+    "flag": "🇸🇦",
+    "startDate": "2026-02-28",
+    "lastUpdated": "2026-04-04",
+    "day": 36,
+    "note": "KSA does not publish regular cumulative totals. Data compiled from individual incident reports and the Mar 28 Arab News cumulative figure (745 drones, 54 missiles, 7 cruise)."
+  },
+  "cumulative": [
+    { "date": "Feb 28", "day": 1,  "ballistic": 8,  "cruise": 0, "drones": 47  },
+    { "date": "Mar 2",  "day": 3,  "ballistic": 12, "cruise": 1, "drones": 95  },
+    { "date": "Mar 5",  "day": 6,  "ballistic": 18, "cruise": 3, "drones": 160 },
+    { "date": "Mar 9",  "day": 10, "ballistic": 26, "cruise": 3, "drones": 280 },
+    { "date": "Mar 10", "day": 11, "ballistic": 30, "cruise": 3, "drones": 330 },
+    { "date": "Mar 18", "day": 19, "ballistic": 38, "cruise": 5, "drones": 540 },
+    { "date": "Mar 23", "day": 24, "ballistic": 44, "cruise": 6, "drones": 650 },
+    { "date": "Mar 28", "day": 29, "ballistic": 54, "cruise": 7, "drones": 745 },
+    { "date": "Apr 3",  "day": 35, "ballistic": 60, "cruise": 7, "drones": 800 },
+    { "date": "Apr 4",  "day": 36, "ballistic": 62, "cruise": 7, "drones": 815 }
+  ]
+}

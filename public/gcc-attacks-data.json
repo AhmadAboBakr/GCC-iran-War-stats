@@ -1,0 +1,58 @@
+{
+  "kuwait": {
+    "meta": {
+      "title": "Iranian Strikes on Kuwait",
+      "source": "Kuwait Ministry of Defence — Official Briefings",
+      "startDate": "2026-02-28",
+      "lastUpdated": "2026-04-03",
+      "day": 35,
+      "note": "Kuwait publishes less granular cumulative data; some points interpolated from daily reports"
+    },
+    "cumulative": [
+      { "date": "Feb 28", "day": 1,  "ballistic": 97,  "cruise": 0, "drones": 283 },
+      { "date": "Mar 8",  "day": 9,  "ballistic": 180, "cruise": 2, "drones": 420 },
+      { "date": "Mar 18", "day": 19, "ballistic": 245, "cruise": 2, "drones": 510 },
+      { "date": "Mar 29", "day": 30, "ballistic": 307, "cruise": 2, "drones": 616 },
+      { "date": "Apr 3",  "day": 35, "ballistic": 340, "cruise": 4, "drones": 680 }
+    ]
+  },
+  "qatar": {
+    "meta": {
+      "title": "Iranian Strikes on Qatar",
+      "source": "Qatar Ministry of Defence — Official Briefings",
+      "startDate": "2026-02-28",
+      "lastUpdated": "2026-04-03",
+      "day": 35,
+      "note": "Qatar stopped publishing regular cumulative totals after Trump's Mar 18 warning halted Qatar-targeted attacks"
+    },
+    "cumulative": [
+      { "date": "Feb 28", "day": 1,  "ballistic": 66,  "cruise": 3,  "drones": 12  },
+      { "date": "Mar 1",  "day": 2,  "ballistic": 98,  "cruise": 3,  "drones": 24  },
+      { "date": "Mar 3",  "day": 4,  "ballistic": 109, "cruise": 3,  "drones": 33  },
+      { "date": "Mar 9",  "day": 10, "ballistic": 130, "cruise": 3,  "drones": 51  },
+      { "date": "Mar 11", "day": 12, "ballistic": 152, "cruise": 3,  "drones": 62  },
+      { "date": "Mar 18", "day": 19, "ballistic": 203, "cruise": 3,  "drones": 87  },
+      { "date": "Apr 1",  "day": 33, "ballistic": 203, "cruise": 6,  "drones": 87  },
+      { "date": "Apr 3",  "day": 35, "ballistic": 203, "cruise": 6,  "drones": 87  }
+    ]
+  },
+  "ksa": {
+    "meta": {
+      "title": "Iranian Strikes on Saudi Arabia",
+      "source": "Saudi Ministry of Defence — Official Statements",
+      "startDate": "2026-02-28",
+      "lastUpdated": "2026-04-03",
+      "day": 35,
+      "note": "KSA does not publish regular cumulative totals; data compiled from individual incident reports"
+    },
+    "cumulative": [
+      { "date": "Feb 28", "day": 1,  "ballistic": 8,  "cruise": 1, "drones": 47  },
+      { "date": "Mar 5",  "day": 6,  "ballistic": 14, "cruise": 3, "drones": 120 },
+      { "date": "Mar 10", "day": 11, "ballistic": 22, "cruise": 3, "drones": 230 },
+      { "date": "Mar 18", "day": 19, "ballistic": 30, "cruise": 3, "drones": 380 },
+      { "date": "Mar 23", "day": 24, "ballistic": 35, "cruise": 3, "drones": 435 },
+      { "date": "Mar 29", "day": 30, "ballistic": 40, "cruise": 3, "drones": 490 },
+      { "date": "Apr 3",  "day": 35, "ballistic": 45, "cruise": 3, "drones": 530 }
+    ]
+  }
+}

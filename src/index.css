@@ -1,0 +1,81 @@
+@import "tailwindcss";
+
+@theme {
+  /* Company brand colors */
+  --color-brand-green: #6bbf3b;
+  --color-brand-red: #e04832;
+  --color-brand-amber: #ffb000;
+  --color-brand-black: #0a0a0a;
+  --color-brand-light: #e8e8e8;
+
+  /* Dashboard palette */
+  --color-bg-primary: #0a0f1e;
+  --color-bg-panel: rgba(255, 255, 255, 0.03);
+  --color-bg-stat: rgba(255, 255, 255, 0.04);
+  --color-border-panel: rgba(255, 255, 255, 0.08);
+  --color-border-subtle: #1e293b;
+  --color-border-muted: #334155;
+
+  --color-text-primary: #e2e8f0;
+  --color-text-secondary: #94a3b8;
+  --color-text-muted: #64748b;
+  --color-text-dim: #475569;
+  --color-text-faint: #334155;
+
+  /* Weapon type colors */
+  --color-weapon-ballistic: #ff7043;
+  --color-weapon-cruise: #ffd54f;
+  --color-weapon-drones: #4dd0e1;
+
+  /* Country colors */
+  --color-country-uae: #ff7043;
+  --color-country-bahrain: #ef5350;
+  --color-country-kuwait: #66bb6a;
+  --color-country-qatar: #f48fb1;
+  --color-country-ksa: #81c784;
+  --color-country-total: #4dd0e1;
+
+  /* Fonts */
+  --font-mono: 'IBM Plex Mono', monospace;
+  --font-display: 'Bebas Neue', sans-serif;
+  --font-arabic: 'IBM Plex Sans Arabic', 'IBM Plex Mono', sans-serif;
+}
+
+@layer base {
+  * {
+    box-sizing: border-box;
+  }
+
+  body {
+    margin: 0;
+  }
+
+  /* Arabic font when in RTL mode */
+  [dir="rtl"] {
+    font-family: var(--font-arabic);
+  }
+
+  [dir="rtl"] .font-mono {
+    font-family: var(--font-arabic);
+  }
+
+  /* Keep numbers LTR in Arabic */
+  [dir="rtl"] .ltr-nums {
+    direction: ltr;
+    unicode-bidi: isolate;
+  }
+
+  button {
+    font-family: var(--font-mono);
+    cursor: pointer;
+    transition: all 0.18s;
+  }
+
+  [dir="rtl"] button {
+    font-family: var(--font-arabic);
+  }
+
+  button:hover {
+    filter: brightness(1.2);
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "meta": {
+    "title": "Iranian Strikes on Kuwait",
+    "source": "Kuwait Ministry of Defence — Official Briefings via KUNA",
+    "flag": "🇰🇼",
+    "startDate": "2026-02-28",
+    "lastUpdated": "2026-04-04",
+    "day": 36,
+    "note": "Kuwait publishes daily counts but irregular cumulative totals. Some datapoints derived from daily incident reports."
+  },
+  "cumulative": [
+    { "date": "Feb 28", "day": 1,  "ballistic": 97,  "cruise": 0, "drones": 283 },
+    { "date": "Mar 1",  "day": 2,  "ballistic": 130, "cruise": 0, "drones": 340 },
+    { "date": "Mar 8",  "day": 9,  "ballistic": 178, "cruise": 0, "drones": 384 },
+    { "date": "Mar 10", "day": 11, "ballistic": 221, "cruise": 0, "drones": 407 },
+    { "date": "Mar 18", "day": 19, "ballistic": 270, "cruise": 2, "drones": 490 },
+    { "date": "Mar 21", "day": 22, "ballistic": 288, "cruise": 2, "drones": 510 },
+    { "date": "Mar 27", "day": 28, "ballistic": 303, "cruise": 2, "drones": 560 },
+    { "date": "Mar 29", "day": 30, "ballistic": 307, "cruise": 2, "drones": 616 },
+    { "date": "Apr 3",  "day": 35, "ballistic": 330, "cruise": 4, "drones": 660 },
+    { "date": "Apr 4",  "day": 36, "ballistic": 337, "cruise": 4, "drones": 686 }
+  ]
+}

@@ -1,27 +1,118 @@
 {
   "meta": {
     "title": "Iranian Strikes on Bahrain",
-    "source": "Bahrain Defence Force — Official Briefings via BNA",
-    "flag": "🇧🇭",
+    "source": "Bahrain Defence Force \u2014 Official Briefings via BNA",
+    "flag": "\ud83c\udde7\ud83c\udded",
     "startDate": "2026-02-28",
-    "lastUpdated": "2026-04-04",
-    "day": 36,
+    "lastUpdated": "2026-04-05",
+    "day": 37,
     "note": "BDF reports combined missile totals; ballistic/cruise breakdown not always separated."
   },
   "cumulative": [
-    { "date": "Feb 28", "day": 1,  "ballistic": 45,  "cruise": 0, "drones": 9   },
-    { "date": "Mar 1",  "day": 2,  "ballistic": 61,  "cruise": 0, "drones": 34  },
-    { "date": "Mar 3",  "day": 4,  "ballistic": 78,  "cruise": 0, "drones": 143 },
-    { "date": "Mar 8",  "day": 9,  "ballistic": 92,  "cruise": 0, "drones": 151 },
-    { "date": "Mar 10", "day": 11, "ballistic": 106, "cruise": 0, "drones": 176 },
-    { "date": "Mar 11", "day": 12, "ballistic": 112, "cruise": 0, "drones": 186 },
-    { "date": "Mar 13", "day": 14, "ballistic": 125, "cruise": 0, "drones": 211 },
-    { "date": "Mar 18", "day": 19, "ballistic": 132, "cruise": 0, "drones": 234 },
-    { "date": "Mar 24", "day": 25, "ballistic": 155, "cruise": 0, "drones": 358 },
-    { "date": "Mar 28", "day": 29, "ballistic": 174, "cruise": 0, "drones": 385 },
-    { "date": "Mar 29", "day": 30, "ballistic": 174, "cruise": 0, "drones": 391 },
-    { "date": "Apr 2",  "day": 34, "ballistic": 188, "cruise": 0, "drones": 429 },
-    { "date": "Apr 3",  "day": 35, "ballistic": 188, "cruise": 0, "drones": 445 },
-    { "date": "Apr 4",  "day": 36, "ballistic": 188, "cruise": 0, "drones": 453 }
+    {
+      "date": "Feb 28",
+      "day": 1,
+      "ballistic": 45,
+      "cruise": 0,
+      "drones": 9
+    },
+    {
+      "date": "Mar 1",
+      "day": 2,
+      "ballistic": 61,
+      "cruise": 0,
+      "drones": 34
+    },
+    {
+      "date": "Mar 3",
+      "day": 4,
+      "ballistic": 78,
+      "cruise": 0,
+      "drones": 143
+    },
+    {
+      "date": "Mar 8",
+      "day": 9,
+      "ballistic": 92,
+      "cruise": 0,
+      "drones": 151
+    },
+    {
+      "date": "Mar 10",
+      "day": 11,
+      "ballistic": 106,
+      "cruise": 0,
+      "drones": 176
+    },
+    {
+      "date": "Mar 11",
+      "day": 12,
+      "ballistic": 112,
+      "cruise": 0,
+      "drones": 186
+    },
+    {
+      "date": "Mar 13",
+      "day": 14,
+      "ballistic": 125,
+      "cruise": 0,
+      "drones": 211
+    },
+    {
+      "date": "Mar 18",
+      "day": 19,
+      "ballistic": 132,
+      "cruise": 0,
+      "drones": 234
+    },
+    {
+      "date": "Mar 24",
+      "day": 25,
+      "ballistic": 155,
+      "cruise": 0,
+      "drones": 358
+    },
+    {
+      "date": "Mar 28",
+      "day": 29,
+      "ballistic": 174,
+      "cruise": 0,
+      "drones": 385
+    },
+    {
+      "date": "Mar 29",
+      "day": 30,
+      "ballistic": 174,
+      "cruise": 0,
+      "drones": 391
+    },
+    {
+      "date": "Apr 2",
+      "day": 34,
+      "ballistic": 188,
+      "cruise": 0,
+      "drones": 429
+    },
+    {
+      "date": "Apr 3",
+      "day": 35,
+      "ballistic": 188,
+      "cruise": 0,
+      "drones": 445
+    },
+    {
+      "date": "Apr 4",
+      "day": 36,
+      "ballistic": 188,
+      "cruise": 0,
+      "drones": 453
+    },
+    {
+      "date": "Apr 5",
+      "day": 37,
+      "ballistic": 191,
+      "cruise": 0,
+      "drones": 462
+    }
   ]
 }

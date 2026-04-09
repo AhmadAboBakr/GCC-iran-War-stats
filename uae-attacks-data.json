@@ -3,8 +3,8 @@
     "title": "Iranian Strikes on the UAE",
     "source": "UAE Ministry of Defence \u2014 Official Daily Briefings",
     "startDate": "2026-02-28",
-    "lastUpdated": "2026-04-05",
-    "day": 37,
+    "lastUpdated": "2026-04-08",
+    "day": 40,
     "note": "UAE publishes the most granular daily cumulative data of all GCC states"
   },
   "cumulative": [
@@ -182,6 +182,27 @@
       "ballistic": 507,
       "cruise": 24,
       "drones": 2191
+    },
+    {
+      "date": "Apr 6",
+      "day": 38,
+      "ballistic": 519,
+      "cruise": 26,
+      "drones": 2210
+    },
+    {
+      "date": "Apr 7",
+      "day": 39,
+      "ballistic": 520,
+      "cruise": 26,
+      "drones": 2221
+    },
+    {
+      "date": "Apr 8",
+      "day": 40,
+      "ballistic": 537,
+      "cruise": 26,
+      "drones": 2256
     }
   ]
 }

@@ -4,9 +4,9 @@
     "source": "Saudi Ministry of Defence \u2014 Official Statements",
     "flag": "\ud83c\uddf8\ud83c\udde6",
     "startDate": "2026-02-28",
-    "lastUpdated": "2026-04-05",
-    "day": 37,
-    "note": "KSA does not publish regular cumulative totals. Data compiled from individual incident reports and the Mar 28 Arab News cumulative figure (745 drones, 54 missiles, 7 cruise)."
+    "lastUpdated": "2026-04-08",
+    "day": 40,
+    "note": "KSA published first official cumulative on Apr 7 (86 ballistic, 9 cruise, 799 drones from Mar 3\u2013Apr 7). Earlier datapoints are compiled from incident reports."
   },
   "cumulative": [
     {
@@ -85,6 +85,27 @@
       "ballistic": 64,
       "cruise": 7,
       "drones": 830
+    },
+    {
+      "date": "Apr 6",
+      "day": 38,
+      "ballistic": 66,
+      "cruise": 7,
+      "drones": 845
+    },
+    {
+      "date": "Apr 7",
+      "day": 39,
+      "ballistic": 94,
+      "cruise": 9,
+      "drones": 846
+    },
+    {
+      "date": "Apr 8",
+      "day": 40,
+      "ballistic": 94,
+      "cruise": 9,
+      "drones": 855
     }
   ]
 }
